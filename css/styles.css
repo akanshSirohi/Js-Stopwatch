@@ -25,11 +25,9 @@ a:hover{text-decoration:underline;}
 	width:840px;
 	height:247px;
 	background-image: url(../images/special_offer_bg.png);
-    background-position: 0px 74px;
-    background-repeat: no-repeat;
+    	background-position: 0px 74px;
+    	background-repeat: no-repeat;
 	margin-bottom:46px;
-	cursor:pointer;
-	
 }
 #counter {
 	position:absolute;
